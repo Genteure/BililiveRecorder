@@ -26,6 +26,8 @@ See [rec.danmuji.org](https://rec.danmuji.org) (in Chinese)
 - Pure C#, no native dependency like ffmpeg
 - Open source!
 
+- TEST
+
 ## Develop & Getting Started
 
 **Visual Studio 2017 / 2019 with .NET Core** and **PowerShell** is required.
